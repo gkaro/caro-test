@@ -1,4 +1,4 @@
-Usage
+Création des salariés
 =====
 
 .. _installation:
